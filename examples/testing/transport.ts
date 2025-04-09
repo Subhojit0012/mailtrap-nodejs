@@ -8,8 +8,8 @@ import { MailtrapTransport } from "mailtrap"
  * @see https://help.mailtrap.io/article/69-sending-domain-setup
  */
 
-const TOKEN = "<YOUR-TOKEN-HERE>"
-const TEST_INBOX_ID = "<YOUR-TEST-INBOX-ID-HERE>"
+const TOKEN = "<YOUR-TOKEN-HERE>";
+const TEST_INBOX_ID = "<YOUR-TEST-INBOX-ID-HERE>";
 const SENDER_EMAIL = "<SENDER@YOURDOMAIN.COM>";
 const RECIPIENT_EMAIL = "<RECIPIENT@EMAIL.COM>";
 
